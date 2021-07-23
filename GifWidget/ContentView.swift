@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Shared
+//  GifWidget
 //
 //  Created by Sam Chanda on 7/22/21.
 //

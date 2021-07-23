@@ -1,6 +1,6 @@
 //
-//  Gif_widgetApp.swift
-//  Shared
+//  GifWidgetApp.swift
+//  GifWidget
 //
 //  Created by Sam Chanda on 7/22/21.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Gif_widgetApp: App {
+struct GifWidgetApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
